@@ -21,4 +21,3 @@ Tenga en cuenta que el supermercado vende normalmente más de $40000$ productos.
   - `_load_factor`: Este método debe calcular y devolver el factor de carga de la tabla hash.
   - `_longest_list`: Este método debe calcular y devolver el tamaño de la lista más larga.
 
-# Proyecto-prog2
